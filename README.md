@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+# About me 😄
+
+Hello! I'm studing web development at the moment !
+
+
+# Links ! 🔭
+
+aYoutubeChannel! anotherLink!
+
 <!--
 **AdrianDiazAndreu/AdrianDiazAndreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
